@@ -197,4 +197,4 @@ insertar y solo se pueden leer los mensajes de los últimos 15 minutos. En `web/
 
 ## Créditos
 
-Hecho por Vanessa Almagro y Leandro Crespo para la feria **Be a Dragon** de la USFQ.
+Hecho por Vanessa Almagro para la feria **Be a Dragon** de la USFQ.
